@@ -1,0 +1,5 @@
+<code_scheme name="Default">
+  <ClojureCodeStyleSettings>{
+  :clojure.test/deftest 2
+}</ClojureCodeStyleSettings>
+</code_scheme>
